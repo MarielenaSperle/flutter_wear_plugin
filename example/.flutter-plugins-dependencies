@@ -1,0 +1,1 @@
+{"info":"This is a generated file; do not edit or check into version control.","plugins":{"ios":[],"android":[{"name":"wear","path":"/home/marielena/StudioProjects/flutter_wear_plugin/","dependencies":[]}],"macos":[],"linux":[],"windows":[],"web":[]},"dependencyGraph":[{"name":"wear","dependencies":[]}],"date_created":"2022-02-03 17:29:55.645894","version":"2.8.1"}
